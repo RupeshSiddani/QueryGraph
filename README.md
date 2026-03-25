@@ -4,7 +4,7 @@ A context graph system that unifies fragmented SAP Order-to-Cash data into an in
 
 ## Live Demo
 
-> _Link will be added after deployment_
+(https://querygraph.vercel.app/)
 
 ## Screenshot
 
