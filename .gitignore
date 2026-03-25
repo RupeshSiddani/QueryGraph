@@ -1,0 +1,21 @@
+.env
+ASSIGNMENT.md
+PLAN.md
+sap-order-to-cash-dataset/
+sap-order-to-cash-dataset.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
